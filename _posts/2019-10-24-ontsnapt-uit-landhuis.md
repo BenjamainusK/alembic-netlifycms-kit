@@ -3,10 +3,8 @@ layout: post
 title: Ontsnapt uit landhuis!
 feature_image: /assets/uploads/mansion.jpg
 feature_text: '>'
-categories: mansion
+categories: ''
 ---
->
->
 > Het was 25 oktober 2012
 
 Er doen vele geruchten de ronde over het landhuis net buiten het gehucht Doodstil. In de volksmond wordt het huis ook wel _Paradox Farm_ genoemd. Elk jaar zijn er meldingen van mensen die worden vermist. Volgens familieleden zouden deze personen hebben geprobeerd het huis binnen te treden. Maar de politie meent elke keer weer geen enkel spoor te hebben gevonden dat naar dit huis leidt.

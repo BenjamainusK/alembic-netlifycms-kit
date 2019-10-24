@@ -17,6 +17,6 @@ Op het portret hieronder zijn meneer en mevrouw _aeiahfg_ te zien. Door de tand 
 
 Om mijn vrouw en kinderen een goed bestaan te kunnen blijven bieden, wil ik mij niet meer bezighouden met dit vervloekte landhuis.
 
-Wanneer je dit bericht leest is dit enige uitweg. 
+Wanneer je dit bericht leest is dit [**enige uitweg**](https://benblog.netlify.com/2019/10/24/kubus/). 
 
 ![Dierenportret](/assets/uploads/dierenportret.jpg "Dierenportret")

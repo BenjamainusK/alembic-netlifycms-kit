@@ -11,7 +11,7 @@ Er doen vele geruchten de ronde over het landhuis net buiten het gehucht Doodsti
 
 Maar ik weet wel beter. Ik ben, voor zover ik weet, de enige persoon die levend dit landhuis heeft verlaten. Het landhuis hangt vol met schilderijen en portretten met figuren erop. Het merkwaardige aan deze figuren is dat hun hoofd is vervangen door een dierenkop.
 
-Op het portret hieronder zijn meneer en mevrouw _aeiahfg_ te zien. Door de tand des tijds zijn er letters weggevallen, maar dat terzijde. Zij zouden het huis hebben bezocht op 12 december 1912. 
+Op het portret hieronder zijn het franse echtpaar met de achternaam _aeiahfg_ te zien. Zij zouden het huis hebben bezocht op 12 december 1912. 
 
 Om mijn vrouw en kinderen een goed bestaan te kunnen blijven bieden, wil ik mij niet meer bezighouden met dit vervloekte landhuis.
 

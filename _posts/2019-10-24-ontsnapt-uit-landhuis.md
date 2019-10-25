@@ -13,8 +13,8 @@ Maar ik weet wel beter. Ik ben, voor zover ik weet, de enige persoon die levend 
 
 Op het portret hieronder zijn het franse echtpaar van de familie _aeiahfg_ te zien. Zij zouden het huis hebben bezocht op 12 december 1912. 
 
+![Dierenportret](/assets/uploads/dierenportret.jpg "Dierenportret")
+
 Om mijn vrouw en kinderen een veilig bestaan te kunnen blijven bieden, wil ik mij niet meer bezighouden met dit vervloekte landhuis. De bewoner genaamd Harm rust namelijk niet totdat hij genoeg zieltjes heeft gefotografeerd.
 
-Wanneer je dit bericht leest, is dit de [**enige uitweg**](https://benblog.netlify.com/2019/10/24/kubus/). 
-
-![Dierenportret](/assets/uploads/dierenportret.jpg "Dierenportret")
+Wanneer je dit bericht leest, is dit de [**enige uitweg**](https://benblog.netlify.com/2019/10/24/kubus/).

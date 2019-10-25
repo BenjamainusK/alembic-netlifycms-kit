@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ontsnapt uit landhuis!
-feature_image: /assets/uploads/villa-3237114_1920.jpg
+feature_image: /assets/uploads/paper-1074131_1920.jpg
 feature_text: '>'
 categories: ''
 ---

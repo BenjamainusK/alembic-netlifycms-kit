@@ -32,9 +32,7 @@ paginate_path: blog/page:num
 
 # Header nav
 navigation_header:
-  Home: 
-  About:
-  Blog:
+
 
 # Footer nav
 navigation_footer:

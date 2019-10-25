@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ontsnapt uit landhuis!
-feature_image: /assets/uploads/mansion.jpg
+feature_image: /assets/uploads/lost-places-3035877_1920.jpg
 feature_text: '>'
 categories: ''
 ---

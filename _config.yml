@@ -21,8 +21,8 @@ plugins:
 # Site settings
 url: 'https://mydomain.com'
 baseurl: ''
-title: 'My website'
-description: 'This is my new website'
+title: 'Paradox Farm'
+description: 'Paradox Farm'
 permalink: pretty
 logo: "https://images.unsplash.com/photo-1529946825183-536c6317f60e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=80"
 
@@ -32,9 +32,9 @@ paginate_path: blog/page:num
 
 # Header nav
 navigation_header:
-  Home: /
-  About: /about/
-  Blog: /blog/
+  Home: 
+  About:
+  Blog:
 
 # Footer nav
 navigation_footer:

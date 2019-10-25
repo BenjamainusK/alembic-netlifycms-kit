@@ -19,8 +19,8 @@ plugins:
 - jemoji
 
 # Site settings
-url: 'https://mydomain.com'
-baseurl: ''
+url: 'https://benblog.netlify.com/2019/10/24/ontsnapt-uit-landhuis'
+baseurl: 'https://benblog.netlify.com/2019/10/24/ontsnapt-uit-landhuis'
 title: 'Paradox Farm'
 description: 'Paradox Farm'
 permalink: 

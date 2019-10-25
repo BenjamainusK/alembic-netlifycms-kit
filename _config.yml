@@ -19,7 +19,7 @@ plugins:
 - jemoji
 
 # Site settings
-url: 'https://benblog.netlify.com/2019/10/24/ontsnapt-uit-landhuis'
+url: ''
 baseurl: 'https://benblog.netlify.com/2019/10/24/ontsnapt-uit-landhuis'
 title: 'Paradox Farm'
 description: 'Paradox Farm'

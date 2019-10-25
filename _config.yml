@@ -23,7 +23,7 @@ url: 'https://mydomain.com'
 baseurl: ''
 title: 'Paradox Farm'
 description: 'Paradox Farm'
-permalink: pretty
+permalink: 
 logo: "https://images.unsplash.com/photo-1529946825183-536c6317f60e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=700&q=80"
 
 # Pagination
